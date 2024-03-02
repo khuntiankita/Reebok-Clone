@@ -1,0 +1,73 @@
+
+.applink{
+    font-size: smaller;
+    padding: 10px;
+    page-break-inside: auto;
+    color:white;
+   background-color: black;
+   font-weight: bolder;
+   translate: 20s;
+   
+}
+.header{
+    font-size: small;
+    color: white;
+    height: 50px;
+    font-weight: 500;
+    background-color: rgb(39, 35, 35);
+}
+
+.brands{
+    font-weight: 500;
+    border: 0px;
+    color: white;
+    background-color: rgb(39, 35, 35);
+}
+.nav2{  
+    display: inline-flex inherit;
+    padding: 20px;
+}
+.dilivery{
+    height: 50px;
+    width: 250px;
+    font-size: medium;
+    border-radius: 40px;
+    border: 0px;
+    color:white;
+    background-color: rgb(182, 48, 48);
+}
+.categaries
+{
+    padding:4px;
+    font-size:small;
+    text-decoration: none;
+    color: black;
+}
+.categaries:hover{
+    text-decoration: underline;
+    font-weight: 700;
+}
+.product.img{
+    display:  inline-flexbox inherit;
+    overflow: visible;
+}
+    
+.featuring{
+    padding: 20px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.formen {
+    height: 500px;
+    width: 1200px;
+    background-image: url(./product/for\ mem.jpeg);
+background-repeat: no-repeat;
+background-position:5px;
+}
+.forwomen {
+    height: 500px;
+    width: 1200px;
+    background-image: url(./product/forwomen.jpeg);
+background-repeat: no-repeat;
+background-position:5px;
+}
